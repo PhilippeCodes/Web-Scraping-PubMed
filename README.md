@@ -6,4 +6,4 @@ Please use this script responsibly and do not put too much of a strain on the Pu
 If you have any questiosn or coments, don't hesitate to contact me,
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PhilippeCodes/Web-Scraping-PubMed/blob/master/Scrape_PubMed.py)
